@@ -1,0 +1,114 @@
+[
+  { project_id: 0 },
+  { project_id: 2868 },
+  { project_id: -3 },
+  { project_id: -3 },
+  { project_id: 0 },
+  { project_id: 2837 }
+]
+
+var array1 = [
+  0:{
+    "_id": "66ad1c8d5d9717581758abd4",
+    "id": 17772,
+    "url": "https://premkumarsspace147.quora.com/ti-153978375",
+    "user_id": "282",
+    "date_created": "2024-05-08 10:37:51",
+    "project_id": 0,
+},
+1:{
+    "_id": "66ad1c8d5d9717581758abdd",
+    "id": 17781,
+    "url": "https://www.quora.com/Why-am-I-so-full-of-anger",
+    "user_id": "282",
+    "date_created": "2024-05-08 10:46:33",
+    "project_id": 2868,
+},
+2:{
+    "_id": "66ad1c8d5d9717581758ac24",
+    "id": 17855,
+    "url": "https://www.youtube.com/watch?v=CS7hBHVGWs0",
+    "user_id": "282",
+    "date_created": "2024-05-21 15:17:59",
+    "project_id": -3,
+},
+3: {
+    "_id": "66ad1c8d5d9717581758ac25",
+    "id": 17856,
+    "url": "https://www.youtube.com/watch?v=49byhgXlgcQ",
+    "user_id": "282",
+    "date_created": "2024-05-21 15:19:55",
+    "project_id": -3,
+},
+4:{
+    "_id": "66ad1c8d5d9717581758ac0c",
+    "id": 17830,
+    "url": "https://www.instagram.com/w3schools.com_official/?hl=en",
+    "user_id": "282",
+    "date_created": "2024-05-14 16:08:47",
+    "project_id": 0,
+},
+5:{
+    "_id": "66ad1c8d5d9717581758abda",
+    "id": 17778,
+    "url": "https://premkumarsspace147.quora.com/ti-153978343",
+    "user_id": "282",
+    "date_created": "2024-05-08 10:43:15",
+    "project_id": 2837,
+}
+]
+var array2 = 
+    [
+
+   0:{
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+   1: {
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+    2:{
+        "project_id": 2868,
+        "projectName": "React Js Tutorial"
+    },
+
+   3: {
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+
+    4:{
+        "project_id": -3,
+        "projectName": "Browser Bookmark"
+    },
+   5: {
+        "project_id": -3,
+        "projectName": "Browser Bookmark"
+    },
+   6: {
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+    7:{
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+    8:{
+        "project_id": 2837,
+        "projectName": "Be Look A Best Of One."
+    },
+    9:{
+        "project_id": 0,
+        "projectName": "General Topic"
+    },
+    10:{
+        "project_id": 0,
+        "projectName": "General Topic"
+    }
+]
+
+    
+
+
+how to  array1 of project_id value and array2 project_id value as same in array1 new key value pair in keyname projectname value array2 projectName string value assign

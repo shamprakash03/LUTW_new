@@ -1,0 +1,40 @@
+var thy = [
+    {
+        "_id": "66b72345a901e97b1bed0b66",
+        "id": 3118,
+        "project_name": "Communication",
+        "user_id": "30",
+        "date_created": "2024-05-08 16:01:52",
+        "deleted": 0,
+        "project_description": "",
+        "category_id": "8",
+        "public": "",
+        "image_url": "",
+        "date_modified": "2024-07-01 10:40:13",
+        "rating": "0",
+        "parent_id": 3116,
+        "vote_up": "0",
+        "vote_down": "0",
+        "publish": "0",
+        "topic_level": "null"
+    },
+    {
+        "_id": "66b72345a901e97b1bed0b6d",
+        "id": 3126,
+        "project_name": "Journaling",
+        "user_id": "30",
+        "date_created": "2024-05-28 11:58:23",
+        "deleted": 0,
+        "project_description": "",
+        "category_id": "8",
+        "public": "",
+        "image_url": "",
+        "date_modified": "2024-06-04 04:25:25",
+        "rating": "0",
+        "parent_id": 3116,
+        "vote_up": "0",
+        "vote_down": "0",
+        "publish": "0",
+        "topic_level": "null"
+    }
+] how to reurn li element

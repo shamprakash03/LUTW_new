@@ -1,0 +1,134 @@
+var abc = [
+    {
+        "_id": "66ad1c8d5d9717581758ac27",
+        "url": "https://www.youtube.com/watch?v=vptv15Jzw2M",     
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac2a",
+        "url": "https://www.youtube.com/watch?v=r2PsrcIsxSI",
+       
+    },
+    {
+        "_id": "66ad1c8d5d9717581758abe6",
+        "url": "https://www.lightuptheweb.net/GoogleFavourite?url=https://www.youtube.com/watch?v=Jk74M5CWiWA&emailId=sham03upspring@gmail.com&title=Sivandha kangal (Lyrics) | Album song | @SONGTIME-uy9yr&projectName=General Topic&source_url=https://www.youtube.com/watch?v=Jk74M5CWiWA&type=youtube&projectCreatedBy=General Topic&pId=0",  
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac1b",
+        "url": "https://www.youtube.com/watch?v=wFgZF0TFQ5o",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac29",
+        "url": "https://www.youtube.com/watch?v=HFj5FMb0jwY",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac1e",
+        "url": "https://www.youtube.com/watch?v=eJ3YysWaP_A",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac1f",
+        "url": "https://www.youtube.com/watch?v=nGw56ItWtXI",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac20",
+        "url": "https://www.lightuptheweb.net/GoogleFavourite?url=https://www.youtube.com/watch?v=nGw56ItWtXI&emailId=sham03upspring@gmail.com&title=Meenakshi Sundareshwarar Kalyana Special Song \"Thorana Pandhalile\" by Smt Suchithra Balasubramanian&projectName=General Topic&source_url=https://www.youtube.com/watch?v=nGw56ItWtXI&list=RDMMnGw56ItWtXI&start_radio=1&type=youtube&projectCreatedBy=sham03upspring@gmail.com&pId=0",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758abe5",
+        "url": "https://www.youtube.com/watch?v=Jk74M5CWiWA",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac19",
+        "url": "https://www.youtube.com/watch?v=IZF-rOe9u-g",
+    },
+    {
+        "_id": "66ad1c8d5d9717581758ac1a",
+        "url": "https://www.lightuptheweb.net/GoogleFavourite?url=https://www.youtube.com/watch?v=IZF-rOe9u-g&emailId=sham03upspring@gmail.com&title=Enna Sona | @ARRahman | OK Jaanu | Arijit Singh | Shraddha Kapoor | Aditya Roy | Gulzar | 4K&projectName=General Topic&source_url=https://www.youtube.com/watch?v=IZF-rOe9u-g&type=youtube&projectCreatedBy=General Topic&pId=0",
+    }
+]
+var abc1 = [
+    "https://www.youtube.com/watch?v=vptv15Jzw2M",
+    "https://www.youtube.com/watch?v=r2PsrcIsxSI",
+    "https://www.youtube.com/watch?v=Jk74M5CWiWA",
+    "https://www.youtube.com/watch?v=wFgZF0TFQ5o",
+    "https://www.youtube.com/watch?v=HFj5FMb0jwY",
+    "https://www.youtube.com/watch?v=eJ3YysWaP_A",
+    "https://www.youtube.com/watch?v=nGw56ItWtXI",
+    "https://www.youtube.com/watch?v=nGw56ItWtXI",
+    "https://www.youtube.com/watch?v=Jk74M5CWiWA",
+    "https://www.youtube.com/watch?v=IZF-rOe9u-g",
+    "https://www.youtube.com/watch?v=IZF-rOe9u-g"
+]
+how to add abc array and abc1 new key value add in abc array
+date_created = 2024-05-21 15:23:06
+how to convert a date to 21/may/2024 react js
+
+var t = "{"id":78,"user":"sham}" how to convert string has retutn object only
+var arr = [
+    0: {
+    "_id": "66aa159cff2e2a837cb0111b",
+    "id": 17163,
+    "url_id": 50535,
+},
+1: {
+    "_id": "66aa159cff2e2a837cb0111c",
+    "id": 17164,
+    "url_id": 50536,
+}
+2: {
+    "_id": "66aa159cff2e9a837cb01118",
+    "id": 17150,
+    "url_id": 50532,
+}
+]
+var arr1 = [
+    0: {
+    "userCount": 17163,
+    "userName" : "sham"
+    "id": 50535,
+},
+    2: {
+    "userCount": 7898,
+    "userName" : "hari"
+    "id": 50536,
+},
+    3: {
+    "userCount": 7163,
+    "userName" : "mani"
+    "id": 50532,
+},
+
+]
+how to arr1 in url_id and arr2 in id as same in arr1 new key add value as arr2 userName
+
+
+data = {
+    "id": 1701779175229,
+    "user": "sham03upspring@gmail.com",
+    "mode": 2,
+    "content": "%3Cspan%20class%3D%22token%20literal-property%20property%22%3Eassword%3C%2Fspan%3E%3Cspan%20class%3D%22token%20operator%22%3E%3A%3C%2Fspan%3E%20%3Cspan%20class%3D%22token%20string%22%3E%22mypassword%22%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E%2C%3C%2Fspan%3E%0A%20%20%3Cspan%20class%3D%22token%20literal-property%20property%22%3Edatabase%3C%2Fspan%3E%3Cspan%20class%3D%22token%20operator%22%3E%3A%3C%2Fspan%3E%20%3Cspan%20class%3D%22token%20string%22%3E%22mydb%22%3C%2Fspan%3E%0A%3Cspan%20class%3D%22token%20punctuation%22%3E%7D%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E%3B%3C%2Fspan%3E%0A%0Acon%3Cspan%20class%3D%22token%20punctuation%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%22token%20function%22%3Econnect%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%22token%20keyword%20keyword-function%22%3Efunction%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%22token%20parameter%22%3Eerr%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E)%3C%2Fspan%3E%20%3Cspan%20class%3D%22token%20punctuation%22%3E%7B%3C%2Fspan%3E%0A%20%20%3Cspan%20class%3D%22token%20keyword%20keyword-if%22%3Eif%3C%2Fspan%3E%20%3Cspan%20class%3D%22token%20punctuation%22%3E(%3C%2Fspan%3Eerr%3Cspan%20class%3D%22token%20punctuation%22%3E)%3C%2Fspan%3E%20%3Cspan%20class%3D%22token%20keyword%20keyword-throw%22%3Ethrow%3C%2Fspan%3E%20err%3Cspan%20class%3D%22token%20punctuation%22%3E%3B%3C%2Fspan%3E%0A%20%20console%3Cspan%20class%3D%22token%20punctuation%22%3E.%3C%2Fspan%3E%3Cspan%20class%3D%22token%20function%22%3Elog%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E(%3C%2Fspan%3E%3Cspan%20class%3D%22token%20string%22%3E%22Connected!%22%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E)%3C%2Fspan%3E%3Cspan%20class%3D%22token%20punctuation%22%3E%3B%3C%2Fspan%3E%0A%20%20%3Cspan%20class%3D%22token%20comment%22%3E%2F*Create%20a%20table%3C%2Fspan%3E",
+    "painted": true,
+    "paintedSuccessfully": true,
+    "type": 0,
+    "extra": {
+        "nth": 1,
+        "color": "#fecf99",
+        "top": 274.27777099609375,
+        "left": 49.75
+    },
+    "realName": "sham03upspring@gmail.com",
+    "nth": 1,
+    "userMode": "Private",
+    "prettyTxt": "assword%3A%20%22mypassword%22%2C%20database%3A%20%22mydb%22%20%7D)%3B%20con.connect(function(err)%20%7B%20if%20(err)%20throw%20err%3B%20console.log(%22Connected!%22)%3B%20%2F*Create%20a%20table"
+}
+how to data in content prettyTxt in decodeuricomponent
+var yy = assword: "mypassword",
+  database: "mydb"
+});
+
+con.connect(function(err) {
+  if (err) throw err;
+  console.log("Connected!");
+  /*Create a table
+
+ how to yy string in 20 character only finish in ...
+ 9500156132

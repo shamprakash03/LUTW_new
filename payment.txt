@@ -1,0 +1,20 @@
+Basic
+. one user three topic allowed
+. one topic allowed 30 bookmarks only allowed (documents, videos, images)
+. one topic 5 collabrative only allowed
+. altersites free plan not allowed
+. one topic three subtopic only allowed
+. one page three highlight only 10 pages allowed(including page notes)
+. one page sticky three notes only 5 page only allowed
+
+Advanced
+. one user twenty topic allowed
+. one topic allowed 100 bookmarks only allowed (documents, videos, images)
+. one topic 10 collabrative only allowed
+. altersites unlimited add free plan allowed 
+. one topic ten subtopic only allowed
+. one page 10 highlight unlimited pages allowed(including page notes)
+. one page sticky five notes unlimited page allowed
+
+Premium
+. all unlimited no restriction

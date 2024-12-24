@@ -1,0 +1,99 @@
+const van = [
+    {
+    "_id": "66acaead5d97175817dbf98f",
+    "id": 69,
+    "project_name": "Boston Trip",
+    "user_id": "30",
+    "date_created": "2020-10-20 12:02:55",
+    "deleted": 1,
+    "project_description": "",
+    "category_id": "1",
+    "public": "0",
+    "image_url": "",
+    "date_modified": "2023-05-02 06:25:41",
+    "rating": "0",
+    "parent_id": 0,
+    "vote_up": "0",
+    "vote_down": "0",
+    "publish": "0",
+    "topic_level": "NULL"
+},
+{
+    "_id": "66acaead5d97175817dbf990",
+    "id": 70,
+    "project_name": "Miami trip",
+    "user_id": "113",
+    "date_created": "2020-10-26 05:07:52",
+    "deleted": 0,
+    "project_description": "",
+    "category_id": "1",
+    "public": "1",
+    "image_url": "",
+    "date_modified": "",
+    "rating": "0",
+    "parent_id": 0,
+    "vote_up": "0",
+    "vote_down": "0",
+    "publish": "1",
+    "topic_level": "NULL"
+},
+{
+    "_id": "66acaead5d97175817dbf993",
+    "id": 73,
+    "project_name": "JAPAN VISIT",
+    "user_id": "30",
+    "date_created": "2020-10-28 09:40:34",
+    "deleted": 1,
+    "project_description": "",
+    "category_id": "1",
+    "public": "1",
+    "image_url": "",
+    "date_modified": "2022-05-15 02:08:32",
+    "rating": "0",
+    "parent_id": 0,
+    "vote_up": "0",
+    "vote_down": "0",
+    "publish": "0",
+    "topic_level": "NULL"
+},
+{
+    "_id": "66acaead5d97175817dbf9ad",
+    "id": 162,
+    "project_name": "Tourist place",
+    "user_id": "105",
+    "date_created": "2020-12-17 12:12:32",
+    "deleted": 0,
+    "project_description": "",
+    "category_id": "1",
+    "public": "1",
+    "image_url": "https://www.planetware.com/photos-large/IND/india-top-attractions-taj-mahal.jpg",
+    "date_modified": "",
+    "rating": "0",
+    "parent_id": 0,
+    "vote_up": "0",
+    "vote_down": "0",
+    "publish": "1",
+    "topic_level": "NULL"
+}
+]
+how to public == 1 publish == 1 object only return in array
+
+
+
+
+var public = [
+    0:{id:0, name:"sham"},
+    1:{id:1, name:"prakash"},
+    2:{id:2, name:"hari"},
+    3:{id:3, name:"sankar"},
+    4:{id:4, name:"mani"},
+    5:{id:5, name:"sri"},
+    6:{id:6, name:"dhanu"},
+    7:{id:7, name:"sangavi"},
+    8:{id:8, name:"girl"},
+    9:{id:9, name:"uppli"},
+    10:{id:10, name:"james"},
+    11:{id:11, name:"akash"},
+    12:{id:12, name:"kalai"},
+]
+how to array in random 6 objects return
